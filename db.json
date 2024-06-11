@@ -1,0 +1,48 @@
+{
+    "agents": [
+      {
+        "id": 1,
+        "name": "Agent 1",
+        "profession": "Real Estate Agent",
+        "status": "online",
+        "image": "image1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Agent 2",
+        "profession": "Property Consultant",
+        "status": "offline",
+        "image": "image2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Agent 3",
+        "profession": "Sales Manager",
+        "status": "online",
+        "image": "image3.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Agent 4",
+        "profession": "Marketing Expert",
+        "status": "offline",
+        "image": "image4.jpg"
+      },
+     
+      {
+        "id": 5,
+        "name": "Agent 5",
+        "profession": "Property Advisor",
+        "status": "online",
+        "image": "https://html.creativegigstf.com/homy/homy/assets/img/agents/5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Agent 6",
+        "profession": "Real Estate Consultant",
+        "status": "offline",
+        "image": "https://html.creativegigstf.com/homy/homy/assets/img/agents/6.jpg"
+      }
+    ]
+  }
+  
